@@ -1,3 +1,9 @@
-D:/share/cProject/cmake-build-debug/CMakeFiles/cProject.dir
-D:/share/cProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/share/cProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/cProject.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/main.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/hello.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c2-1-1.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c2-1-4.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c2-1-7.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c2-1-13.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
