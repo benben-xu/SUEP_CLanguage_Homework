@@ -46,7 +46,19 @@ add_executable(c2-1-1 School_Test/c2/c2-1-1.c
         School_Test/c4/c4-2-8.c
         School_Test/c4/c4-3-1.c
         School_Test/c4/c4-3-2.c
-        School_Test/c4/test.c)
+        School_Test/c4/test.c
+        School_Test/c5/c5-1-1.c
+        School_Test/c5/c5-1-2.c
+        School_Test/c5/c5-2-1.c
+        School_Test/c5/c5-2-2.c
+        School_Test/c5/c5-2-3.c
+        School_Test/c5/c5-2-4.c
+        School_Test/c5/c5-2-5.c
+        School_Test/c5/c5-2-6.c
+        School_Test/c5/c5-2-7.c
+        School_Test/c5/c5-2-8.c
+        School_Test/c5/c5-2-9.c
+        School_Test/c5/c5-2-10.c)
 add_executable(c2-1-4 School_Test/c2/c2-1-4.c)
 add_executable(c2-1-7 School_Test/c2/c2-1-7.c)
 add_executable(c2-1-13 School_Test/c2/c2-1-13.c)
@@ -83,3 +95,15 @@ add_executable(c4-2-8 School_Test/c4/c4-2-8.c)
 add_executable(c4-3-1 School_Test/c4/c4-3-1.c)
 add_executable(c4-3-2 School_Test/c4/c4-3-2.c)
 add_executable(test School_Test/c4/test.c)
+add_executable(c5-1-1 School_Test/c5/c5-1-1.c)
+add_executable(c5-1-2 School_Test/c5/c5-1-2.c)
+add_executable(c5-2-1 School_Test/c5/c5-2-1.c)
+add_executable(c5-2-2 School_Test/c5/c5-2-2.c)
+add_executable(c5-2-3 School_Test/c5/c5-2-3.c)
+add_executable(c5-2-4 School_Test/c5/c5-2-4.c)
+add_executable(c5-2-5 School_Test/c5/c5-2-5.c)
+add_executable(c5-2-6 School_Test/c5/c5-2-6.c)
+add_executable(c5-2-7 School_Test/c5/c5-2-7.c)
+add_executable(c5-2-8 School_Test/c5/c5-2-8.c)
+add_executable(c5-2-9 School_Test/c5/c5-2-9.c)
+add_executable(c5-2-10 School_Test/c5/c5-2-10.c)
