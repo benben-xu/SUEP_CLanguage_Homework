@@ -20,8 +20,8 @@ int main()
 
     a = round(a * 100) / 100;
     b = round(b * 100) / 100;
-    printf("四舍五入的a：%f\n",a);
-    printf("四舍五入的b：%f\n",b);
+    printf("四舍五入的a：%.2f\n",a);
+    printf("四舍五入的b：%.2f\n",b);
 
     // char str1[20],str2[20];
     // char result1[20],result2[20];
@@ -78,11 +78,13 @@ int main()
     }
     printf("请计算：%.2f %c %.2f = ", a, op, b);
     scanf("%f", &result);
+    printf("result:%f", &result);
 
     if (result == correct_result) {
         printf("恭喜你，答案正确！\n");
     } else {
         printf("很遗憾，答案错误。正确答案是 %.2f。\n", correct_result);
+
     }
     return 0;
 }

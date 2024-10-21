@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/c3-1-7.dir/School_Test/c3/c3-1-7.c.o"
-  "CMakeFiles/c3-1-7.dir/School_Test/c3/c3-1-7.c.o.d"
-  "c3-1-7"
+  "CMakeFiles/c3-1-7.dir/School_Test/c3/c3-1-7.c.obj"
+  "CMakeFiles/c3-1-7.dir/School_Test/c3/c3-1-7.c.obj.d"
+  "c3-1-7.exe"
+  "c3-1-7.exe.manifest"
   "c3-1-7.pdb"
+  "libc3-1-7.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
