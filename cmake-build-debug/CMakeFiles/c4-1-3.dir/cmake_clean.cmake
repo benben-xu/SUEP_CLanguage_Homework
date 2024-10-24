@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/c4-1-3.dir/School_Test/c4/c4-1-3.c.obj"
-  "CMakeFiles/c4-1-3.dir/School_Test/c4/c4-1-3.c.obj.d"
+  "CMakeFiles/c4-1-3.dir/School_Test/c4/c4-1-3.c.o"
+  "CMakeFiles/c4-1-3.dir/School_Test/c4/c4-1-3.c.o.d"
   "c4-1-3.exe"
-  "c4-1-3.exe.manifest"
   "c4-1-3.pdb"
   "libc4-1-3.dll.a"
 )

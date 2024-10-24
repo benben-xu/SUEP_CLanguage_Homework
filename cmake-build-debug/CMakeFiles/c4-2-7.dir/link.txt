@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\c4-2-7.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\c4-2-7.dir/objects.a @CMakeFiles\c4-2-7.dir\objects1.rsp
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\c4-2-7.dir/objects.a -Wl,--no-whole-archive -o c4-2-7.exe -Wl,--out-implib,libc4-2-7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\c4-2-7.dir\linkLibs.rsp
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/c4-2-7.dir/School_Test/c4/c4-2-7.c.o" -o c4-2-7.exe -Wl,--out-implib,libc4-2-7.dll.a -Wl,--major-image-version,0,--minor-image-version,0

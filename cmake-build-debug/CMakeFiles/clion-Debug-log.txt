@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S D:\share\cProject -B D:\share\cProject\cmake-build-debug
--- Configuring done (0.1s)
--- Generating done (0.3s)
--- Build files have been written to: D:/share/cProject/cmake-build-debug
+C:\Users\benben\AppData\Local\JetBrains\CLion2024.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /cygdrive/d/share/cProject -B /cygdrive/d/share/cProject/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.4s)
+-- Build files have been written to: /cygdrive/d/share/cProject/cmake-build-debug
