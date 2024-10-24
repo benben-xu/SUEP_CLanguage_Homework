@@ -1,8 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/c3-1-2.dir/School_Test/c3/c3-1-2.c.o"
   "CMakeFiles/c3-1-2.dir/School_Test/c3/c3-1-2.c.o.d"
-  "c3-1-2"
+  "c3-1-2.exe"
   "c3-1-2.pdb"
+  "libc3-1-2.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

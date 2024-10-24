@@ -79,6 +79,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o.d"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o.d"
+  "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o"
+  "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o.d"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o.d"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o"
@@ -95,8 +97,17 @@ file(REMOVE_RECURSE
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o.d"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o"
   "CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o.d"
-  "c2-1-1"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o.d"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o.d"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o.d"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o"
+  "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o.d"
+  "c2-1-1.exe"
   "c2-1-1.pdb"
+  "libc2-1-1.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

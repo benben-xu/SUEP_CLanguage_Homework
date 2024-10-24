@@ -84,6 +84,7 @@ int main()
         printf("恭喜你，答案正确！\n");
     } else {
         printf("很遗憾，答案错误。正确答案是 %.2f。\n", correct_result);
+
     }
     return 0;
 }

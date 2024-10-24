@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/c3-1-7.dir/School_Test/c3/c3-1-7.c.o" -o c3-1-7
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/c3-1-7.dir/School_Test/c3/c3-1-7.c.o" -o c3-1-7.exe -Wl,--out-implib,libc3-1-7.dll.a -Wl,--major-image-version,0,--minor-image-version,0

@@ -48,19 +48,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E rm -f
+RM = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ben/CLionProjects/cProject
+CMAKE_SOURCE_DIR = /cygdrive/d/share/cProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/d/share/cProject/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "No interactive CMake dialog available..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -78,7 +78,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake to regenerate build system..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles /Users/ben/CLionProjects/cProject/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles /cygdrive/d/share/cProject/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -791,6 +791,45 @@ c5-2-10: cmake_check_build_system
 c5-2-10/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-10.dir/build.make CMakeFiles/c5-2-10.dir/build
 .PHONY : c5-2-10/fast
+
+#=============================================================================
+# Target rules for targets named 07_valueConvert
+
+# Build rule for target.
+07_valueConvert: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 07_valueConvert
+.PHONY : 07_valueConvert
+
+# fast build rule for target.
+07_valueConvert/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/build
+.PHONY : 07_valueConvert/fast
+
+#=============================================================================
+# Target rules for targets named 24_gotoTest
+
+# Build rule for target.
+24_gotoTest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 24_gotoTest
+.PHONY : 24_gotoTest
+
+# fast build rule for target.
+24_gotoTest/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/24_gotoTest.dir/build.make CMakeFiles/24_gotoTest.dir/build
+.PHONY : 24_gotoTest/fast
+
+#=============================================================================
+# Target rules for targets named c5-2-11
+
+# Build rule for target.
+c5-2-11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c5-2-11
+.PHONY : c5-2-11
+
+# fast build rule for target.
+c5-2-11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-11.dir/build.make CMakeFiles/c5-2-11.dir/build
+.PHONY : c5-2-11/fast
 
 School_Test/c2/c2-1-1.o: School_Test/c2/c2-1-1.c.o
 .PHONY : School_Test/c2/c2-1-1.o
@@ -1923,6 +1962,33 @@ School_Test/c5/c5-2-10.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-10.dir/build.make CMakeFiles/c5-2-10.dir/School_Test/c5/c5-2-10.c.s
 .PHONY : School_Test/c5/c5-2-10.c.s
 
+School_Test/c5/c5-2-11.o: School_Test/c5/c5-2-11.c.o
+.PHONY : School_Test/c5/c5-2-11.o
+
+# target to build an object file
+School_Test/c5/c5-2-11.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-11.dir/build.make CMakeFiles/c5-2-11.dir/School_Test/c5/c5-2-11.c.o
+.PHONY : School_Test/c5/c5-2-11.c.o
+
+School_Test/c5/c5-2-11.i: School_Test/c5/c5-2-11.c.i
+.PHONY : School_Test/c5/c5-2-11.i
+
+# target to preprocess a source file
+School_Test/c5/c5-2-11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-11.dir/build.make CMakeFiles/c5-2-11.dir/School_Test/c5/c5-2-11.c.i
+.PHONY : School_Test/c5/c5-2-11.c.i
+
+School_Test/c5/c5-2-11.s: School_Test/c5/c5-2-11.c.s
+.PHONY : School_Test/c5/c5-2-11.s
+
+# target to generate assembly for a file
+School_Test/c5/c5-2-11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-11.dir/build.make CMakeFiles/c5-2-11.dir/School_Test/c5/c5-2-11.c.s
+.PHONY : School_Test/c5/c5-2-11.c.s
+
 School_Test/c5/c5-2-2.o: School_Test/c5/c5-2-2.c.o
 .PHONY : School_Test/c5/c5-2-2.o
 
@@ -2139,6 +2205,132 @@ School_Test/c5/c5-2-9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c5-2-9.dir/build.make CMakeFiles/c5-2-9.dir/School_Test/c5/c5-2-9.c.s
 .PHONY : School_Test/c5/c5-2-9.c.s
 
+Self-Learn/chapter02/03_IntTest.o: Self-Learn/chapter02/03_IntTest.c.o
+.PHONY : Self-Learn/chapter02/03_IntTest.o
+
+# target to build an object file
+Self-Learn/chapter02/03_IntTest.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o
+.PHONY : Self-Learn/chapter02/03_IntTest.c.o
+
+Self-Learn/chapter02/03_IntTest.i: Self-Learn/chapter02/03_IntTest.c.i
+.PHONY : Self-Learn/chapter02/03_IntTest.i
+
+# target to preprocess a source file
+Self-Learn/chapter02/03_IntTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.i
+.PHONY : Self-Learn/chapter02/03_IntTest.c.i
+
+Self-Learn/chapter02/03_IntTest.s: Self-Learn/chapter02/03_IntTest.c.s
+.PHONY : Self-Learn/chapter02/03_IntTest.s
+
+# target to generate assembly for a file
+Self-Learn/chapter02/03_IntTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.s
+.PHONY : Self-Learn/chapter02/03_IntTest.c.s
+
+Self-Learn/chapter02/04_FloatDoubleTest.o: Self-Learn/chapter02/04_FloatDoubleTest.c.o
+.PHONY : Self-Learn/chapter02/04_FloatDoubleTest.o
+
+# target to build an object file
+Self-Learn/chapter02/04_FloatDoubleTest.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o
+.PHONY : Self-Learn/chapter02/04_FloatDoubleTest.c.o
+
+Self-Learn/chapter02/04_FloatDoubleTest.i: Self-Learn/chapter02/04_FloatDoubleTest.c.i
+.PHONY : Self-Learn/chapter02/04_FloatDoubleTest.i
+
+# target to preprocess a source file
+Self-Learn/chapter02/04_FloatDoubleTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.i
+.PHONY : Self-Learn/chapter02/04_FloatDoubleTest.c.i
+
+Self-Learn/chapter02/04_FloatDoubleTest.s: Self-Learn/chapter02/04_FloatDoubleTest.c.s
+.PHONY : Self-Learn/chapter02/04_FloatDoubleTest.s
+
+# target to generate assembly for a file
+Self-Learn/chapter02/04_FloatDoubleTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.s
+.PHONY : Self-Learn/chapter02/04_FloatDoubleTest.c.s
+
+Self-Learn/chapter02/07_valueConvert.o: Self-Learn/chapter02/07_valueConvert.c.o
+.PHONY : Self-Learn/chapter02/07_valueConvert.o
+
+# target to build an object file
+Self-Learn/chapter02/07_valueConvert.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o
+.PHONY : Self-Learn/chapter02/07_valueConvert.c.o
+
+Self-Learn/chapter02/07_valueConvert.i: Self-Learn/chapter02/07_valueConvert.c.i
+.PHONY : Self-Learn/chapter02/07_valueConvert.i
+
+# target to preprocess a source file
+Self-Learn/chapter02/07_valueConvert.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.i
+.PHONY : Self-Learn/chapter02/07_valueConvert.c.i
+
+Self-Learn/chapter02/07_valueConvert.s: Self-Learn/chapter02/07_valueConvert.c.s
+.PHONY : Self-Learn/chapter02/07_valueConvert.s
+
+# target to generate assembly for a file
+Self-Learn/chapter02/07_valueConvert.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.s
+.PHONY : Self-Learn/chapter02/07_valueConvert.c.s
+
+Self-Learn/chapter02/08_ConstantTest.o: Self-Learn/chapter02/08_ConstantTest.c.o
+.PHONY : Self-Learn/chapter02/08_ConstantTest.o
+
+# target to build an object file
+Self-Learn/chapter02/08_ConstantTest.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o
+.PHONY : Self-Learn/chapter02/08_ConstantTest.c.o
+
+Self-Learn/chapter02/08_ConstantTest.i: Self-Learn/chapter02/08_ConstantTest.c.i
+.PHONY : Self-Learn/chapter02/08_ConstantTest.i
+
+# target to preprocess a source file
+Self-Learn/chapter02/08_ConstantTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.i
+.PHONY : Self-Learn/chapter02/08_ConstantTest.c.i
+
+Self-Learn/chapter02/08_ConstantTest.s: Self-Learn/chapter02/08_ConstantTest.c.s
+.PHONY : Self-Learn/chapter02/08_ConstantTest.s
+
+# target to generate assembly for a file
+Self-Learn/chapter02/08_ConstantTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.s
+.PHONY : Self-Learn/chapter02/08_ConstantTest.c.s
+
+Self-Learn/chapter02/24_gotoTest.o: Self-Learn/chapter02/24_gotoTest.c.o
+.PHONY : Self-Learn/chapter02/24_gotoTest.o
+
+# target to build an object file
+Self-Learn/chapter02/24_gotoTest.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/24_gotoTest.dir/build.make CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o
+.PHONY : Self-Learn/chapter02/24_gotoTest.c.o
+
+Self-Learn/chapter02/24_gotoTest.i: Self-Learn/chapter02/24_gotoTest.c.i
+.PHONY : Self-Learn/chapter02/24_gotoTest.i
+
+# target to preprocess a source file
+Self-Learn/chapter02/24_gotoTest.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/24_gotoTest.dir/build.make CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.i
+.PHONY : Self-Learn/chapter02/24_gotoTest.c.i
+
+Self-Learn/chapter02/24_gotoTest.s: Self-Learn/chapter02/24_gotoTest.c.s
+.PHONY : Self-Learn/chapter02/24_gotoTest.s
+
+# target to generate assembly for a file
+Self-Learn/chapter02/24_gotoTest.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c2-1-1.dir/build.make CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/24_gotoTest.dir/build.make CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.s
+.PHONY : Self-Learn/chapter02/24_gotoTest.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -2174,6 +2366,8 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... 07_valueConvert"
+	@echo "... 24_gotoTest"
 	@echo "... c2-1-1"
 	@echo "... c2-1-13"
 	@echo "... c2-1-4"
@@ -2214,6 +2408,7 @@ help:
 	@echo "... c5-1-2"
 	@echo "... c5-2-1"
 	@echo "... c5-2-10"
+	@echo "... c5-2-11"
 	@echo "... c5-2-2"
 	@echo "... c5-2-3"
 	@echo "... c5-2-4"
@@ -2352,6 +2547,9 @@ help:
 	@echo "... School_Test/c5/c5-2-10.o"
 	@echo "... School_Test/c5/c5-2-10.i"
 	@echo "... School_Test/c5/c5-2-10.s"
+	@echo "... School_Test/c5/c5-2-11.o"
+	@echo "... School_Test/c5/c5-2-11.i"
+	@echo "... School_Test/c5/c5-2-11.s"
 	@echo "... School_Test/c5/c5-2-2.o"
 	@echo "... School_Test/c5/c5-2-2.i"
 	@echo "... School_Test/c5/c5-2-2.s"
@@ -2376,6 +2574,21 @@ help:
 	@echo "... School_Test/c5/c5-2-9.o"
 	@echo "... School_Test/c5/c5-2-9.i"
 	@echo "... School_Test/c5/c5-2-9.s"
+	@echo "... Self-Learn/chapter02/03_IntTest.o"
+	@echo "... Self-Learn/chapter02/03_IntTest.i"
+	@echo "... Self-Learn/chapter02/03_IntTest.s"
+	@echo "... Self-Learn/chapter02/04_FloatDoubleTest.o"
+	@echo "... Self-Learn/chapter02/04_FloatDoubleTest.i"
+	@echo "... Self-Learn/chapter02/04_FloatDoubleTest.s"
+	@echo "... Self-Learn/chapter02/07_valueConvert.o"
+	@echo "... Self-Learn/chapter02/07_valueConvert.i"
+	@echo "... Self-Learn/chapter02/07_valueConvert.s"
+	@echo "... Self-Learn/chapter02/08_ConstantTest.o"
+	@echo "... Self-Learn/chapter02/08_ConstantTest.i"
+	@echo "... Self-Learn/chapter02/08_ConstantTest.s"
+	@echo "... Self-Learn/chapter02/24_gotoTest.o"
+	@echo "... Self-Learn/chapter02/24_gotoTest.i"
+	@echo "... Self-Learn/chapter02/24_gotoTest.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
