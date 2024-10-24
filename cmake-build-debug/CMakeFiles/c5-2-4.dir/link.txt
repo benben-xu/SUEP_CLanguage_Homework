@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/c5-2-4.dir/School_Test/c5/c5-2-4.c.o" -o c5-2-4
