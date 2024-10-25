@@ -1,1 +1,1 @@
-/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/c4-2-5-1.dir/School_Test/c4/c4-2-5-1.c.o" -o c4-2-5-1.exe -Wl,--out-implib,libc4-2-5-1.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/c4-2-5-1.dir/School_Test/c4/c4-2-5-1.c.o" -o c4-2-5-1

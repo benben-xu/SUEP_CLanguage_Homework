@@ -5,9 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cProject.dir/School_Test/c2/hello.c.o.d"
   "CMakeFiles/cProject.dir/main.c.o"
   "CMakeFiles/cProject.dir/main.c.o.d"
-  "cProject.exe"
+  "cProject"
   "cProject.pdb"
-  "libcProject.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

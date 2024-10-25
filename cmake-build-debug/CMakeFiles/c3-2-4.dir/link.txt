@@ -1,1 +1,1 @@
-/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/c3-2-4.dir/School_Test/c3/c3-2-4.c.o" -o c3-2-4.exe -Wl,--out-implib,libc3-2-4.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/c3-2-4.dir/School_Test/c3/c3-2-4.c.o" -o c3-2-4

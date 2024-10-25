@@ -1,1 +1,1 @@
-/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/hello.dir/School_Test/c2/hello.c.o -o hello.exe -Wl,--out-implib,libhello.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hello.dir/School_Test/c2/hello.c.o -o hello

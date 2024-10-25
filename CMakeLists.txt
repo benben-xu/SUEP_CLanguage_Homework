@@ -63,7 +63,9 @@ add_executable(c2-1-1 School_Test/c2/c2-1-1.c
         Self-Learn/chapter02/04_FloatDoubleTest.c
         Self-Learn/chapter02/07_valueConvert.c
         Self-Learn/chapter02/24_gotoTest.c
-        School_Test/c5/c5-2-11.c)
+        School_Test/c5/c5-2-11.c
+        School_Test/c5/c5-3-1.c
+        School_Test/c5/c5-3-2.c)
 add_executable(c2-1-4 School_Test/c2/c2-1-4.c)
 add_executable(c2-1-7 School_Test/c2/c2-1-7.c)
 add_executable(c2-1-13 School_Test/c2/c2-1-13.c)
@@ -116,3 +118,5 @@ add_executable(07_valueConvert Self-Learn/chapter02/07_valueConvert.c
         Self-Learn/chapter02/08_ConstantTest.c)
 add_executable(24_gotoTest Self-Learn/chapter02/24_gotoTest.c)
 add_executable(c5-2-11 School_Test/c5/c5-2-11.c)
+add_executable(c5-3-1 School_Test/c5/c5-3-1.c)
+add_executable(c5-3-2 School_Test/c5/c5-3-2.c)

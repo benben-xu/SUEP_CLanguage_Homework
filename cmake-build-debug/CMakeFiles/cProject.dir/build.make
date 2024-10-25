@@ -44,19 +44,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe -E rm -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/d/share/cProject
+CMAKE_SOURCE_DIR = /Users/ben/CLionProjects/cProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/d/share/cProject/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cProject.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/cProject.dir/progress.make
 include CMakeFiles/cProject.dir/flags.make
 
 CMakeFiles/cProject.dir/main.c.o: CMakeFiles/cProject.dir/flags.make
-CMakeFiles/cProject.dir/main.c.o: /cygdrive/d/share/cProject/main.c
+CMakeFiles/cProject.dir/main.c.o: /Users/ben/CLionProjects/cProject/main.c
 CMakeFiles/cProject.dir/main.c.o: CMakeFiles/cProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/cProject.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/cProject.dir/main.c.o -MF CMakeFiles/cProject.dir/main.c.o.d -o CMakeFiles/cProject.dir/main.c.o -c /cygdrive/d/share/cProject/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/cProject.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/cProject.dir/main.c.o -MF CMakeFiles/cProject.dir/main.c.o.d -o CMakeFiles/cProject.dir/main.c.o -c /Users/ben/CLionProjects/cProject/main.c
 
 CMakeFiles/cProject.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/cProject.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/main.c > CMakeFiles/cProject.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/main.c > CMakeFiles/cProject.dir/main.c.i
 
 CMakeFiles/cProject.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/cProject.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/main.c -o CMakeFiles/cProject.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/main.c -o CMakeFiles/cProject.dir/main.c.s
 
 CMakeFiles/cProject.dir/School_Test/c2/hello.c.o: CMakeFiles/cProject.dir/flags.make
-CMakeFiles/cProject.dir/School_Test/c2/hello.c.o: /cygdrive/d/share/cProject/School_Test/c2/hello.c
+CMakeFiles/cProject.dir/School_Test/c2/hello.c.o: /Users/ben/CLionProjects/cProject/School_Test/c2/hello.c
 CMakeFiles/cProject.dir/School_Test/c2/hello.c.o: CMakeFiles/cProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/cProject.dir/School_Test/c2/hello.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/cProject.dir/School_Test/c2/hello.c.o -MF CMakeFiles/cProject.dir/School_Test/c2/hello.c.o.d -o CMakeFiles/cProject.dir/School_Test/c2/hello.c.o -c /cygdrive/d/share/cProject/School_Test/c2/hello.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/cProject.dir/School_Test/c2/hello.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/cProject.dir/School_Test/c2/hello.c.o -MF CMakeFiles/cProject.dir/School_Test/c2/hello.c.o.d -o CMakeFiles/cProject.dir/School_Test/c2/hello.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c2/hello.c
 
 CMakeFiles/cProject.dir/School_Test/c2/hello.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/cProject.dir/School_Test/c2/hello.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c2/hello.c > CMakeFiles/cProject.dir/School_Test/c2/hello.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c2/hello.c > CMakeFiles/cProject.dir/School_Test/c2/hello.c.i
 
 CMakeFiles/cProject.dir/School_Test/c2/hello.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/cProject.dir/School_Test/c2/hello.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c2/hello.c -o CMakeFiles/cProject.dir/School_Test/c2/hello.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c2/hello.c -o CMakeFiles/cProject.dir/School_Test/c2/hello.c.s
 
 CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o: CMakeFiles/cProject.dir/flags.make
-CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o: /cygdrive/d/share/cProject/School_Test/c2/c2-1-4.c
+CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o: /Users/ben/CLionProjects/cProject/School_Test/c2/c2-1-4.c
 CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o: CMakeFiles/cProject.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o -MF CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o.d -o CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o -c /cygdrive/d/share/cProject/School_Test/c2/c2-1-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o -MF CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o.d -o CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c2/c2-1-4.c
 
 CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c2/c2-1-4.c > CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c2/c2-1-4.c > CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.i
 
 CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c2/c2-1-4.c -o CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c2/c2-1-4.c -o CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.s
 
 # Object files for target cProject
 cProject_OBJECTS = \
@@ -120,16 +120,16 @@ cProject_OBJECTS = \
 # External object files for target cProject
 cProject_EXTERNAL_OBJECTS =
 
-cProject.exe: CMakeFiles/cProject.dir/main.c.o
-cProject.exe: CMakeFiles/cProject.dir/School_Test/c2/hello.c.o
-cProject.exe: CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o
-cProject.exe: CMakeFiles/cProject.dir/build.make
-cProject.exe: CMakeFiles/cProject.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable cProject.exe"
+cProject: CMakeFiles/cProject.dir/main.c.o
+cProject: CMakeFiles/cProject.dir/School_Test/c2/hello.c.o
+cProject: CMakeFiles/cProject.dir/School_Test/c2/c2-1-4.c.o
+cProject: CMakeFiles/cProject.dir/build.make
+cProject: CMakeFiles/cProject.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable cProject"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cProject.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/cProject.dir/build: cProject.exe
+CMakeFiles/cProject.dir/build: cProject
 .PHONY : CMakeFiles/cProject.dir/build
 
 CMakeFiles/cProject.dir/clean:
@@ -137,6 +137,6 @@ CMakeFiles/cProject.dir/clean:
 .PHONY : CMakeFiles/cProject.dir/clean
 
 CMakeFiles/cProject.dir/depend:
-	cd /cygdrive/d/share/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/d/share/cProject /cygdrive/d/share/cProject /cygdrive/d/share/cProject/cmake-build-debug /cygdrive/d/share/cProject/cmake-build-debug /cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles/cProject.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ben/CLionProjects/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ben/CLionProjects/cProject /Users/ben/CLionProjects/cProject /Users/ben/CLionProjects/cProject/cmake-build-debug /Users/ben/CLionProjects/cProject/cmake-build-debug /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/cProject.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/cProject.dir/depend
 
