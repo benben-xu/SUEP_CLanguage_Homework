@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o" "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o" -o 07_valueConvert
