@@ -1,8 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/test.dir/School_Test/c4/test.c.o"
   "CMakeFiles/test.dir/School_Test/c4/test.c.o.d"
-  "libtest.dll.a"
-  "test.exe"
+  "test"
   "test.pdb"
 )
 

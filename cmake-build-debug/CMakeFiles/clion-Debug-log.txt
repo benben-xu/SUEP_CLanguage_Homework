@@ -1,4 +1,4 @@
-C:\Users\benben\AppData\Local\JetBrains\CLion2024.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /cygdrive/d/share/cProject -B /cygdrive/d/share/cProject/cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.4s)
--- Build files have been written to: /cygdrive/d/share/cProject/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/ben/CLionProjects/cProject -B /Users/ben/CLionProjects/cProject/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.7s)
+-- Build files have been written to: /Users/ben/CLionProjects/cProject/cmake-build-debug

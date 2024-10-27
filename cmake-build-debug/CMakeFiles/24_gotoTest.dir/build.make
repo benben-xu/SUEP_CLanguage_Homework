@@ -44,19 +44,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake
 
 # The command to remove a file.
-RM = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe -E rm -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/d/share/cProject
+CMAKE_SOURCE_DIR = /Users/ben/CLionProjects/cProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/d/share/cProject/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/24_gotoTest.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/24_gotoTest.dir/progress.make
 include CMakeFiles/24_gotoTest.dir/flags.make
 
 CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o: CMakeFiles/24_gotoTest.dir/flags.make
-CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o: /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c
+CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o: /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c
 CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o: CMakeFiles/24_gotoTest.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o -MF CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o.d -o CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o -c /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o -MF CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o.d -o CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o -c /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c
 
 CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c > CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c > CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.i
 
 CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c -o CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c -o CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.s
 
 # Object files for target 24_gotoTest
 24_gotoTest_OBJECTS = \
@@ -90,14 +90,14 @@ CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.s: cmake_force
 # External object files for target 24_gotoTest
 24_gotoTest_EXTERNAL_OBJECTS =
 
-24_gotoTest.exe: CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o
-24_gotoTest.exe: CMakeFiles/24_gotoTest.dir/build.make
-24_gotoTest.exe: CMakeFiles/24_gotoTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable 24_gotoTest.exe"
+24_gotoTest: CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o
+24_gotoTest: CMakeFiles/24_gotoTest.dir/build.make
+24_gotoTest: CMakeFiles/24_gotoTest.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable 24_gotoTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/24_gotoTest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/24_gotoTest.dir/build: 24_gotoTest.exe
+CMakeFiles/24_gotoTest.dir/build: 24_gotoTest
 .PHONY : CMakeFiles/24_gotoTest.dir/build
 
 CMakeFiles/24_gotoTest.dir/clean:
@@ -105,6 +105,6 @@ CMakeFiles/24_gotoTest.dir/clean:
 .PHONY : CMakeFiles/24_gotoTest.dir/clean
 
 CMakeFiles/24_gotoTest.dir/depend:
-	cd /cygdrive/d/share/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/d/share/cProject /cygdrive/d/share/cProject /cygdrive/d/share/cProject/cmake-build-debug /cygdrive/d/share/cProject/cmake-build-debug /cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles/24_gotoTest.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/ben/CLionProjects/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ben/CLionProjects/cProject /Users/ben/CLionProjects/cProject /Users/ben/CLionProjects/cProject/cmake-build-debug /Users/ben/CLionProjects/cProject/cmake-build-debug /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/24_gotoTest.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/24_gotoTest.dir/depend
 
