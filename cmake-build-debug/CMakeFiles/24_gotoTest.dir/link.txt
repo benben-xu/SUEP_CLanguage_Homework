@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o" -o 24_gotoTest.exe -Wl,--out-implib,lib24_gotoTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0

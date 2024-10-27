@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o" "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o" -o 07_valueConvert.exe -Wl,--out-implib,lib07_valueConvert.dll.a -Wl,--major-image-version,0,--minor-image-version,0
