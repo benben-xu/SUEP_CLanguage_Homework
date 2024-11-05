@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-3.c" "CMakeFiles/c6-1-3.dir/School_Test/c6/c6-1-3.c.o" "gcc" "CMakeFiles/c6-1-3.dir/School_Test/c6/c6-1-3.c.o.d"
+  "/Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-3.c" "CMakeFiles/c6-1-3.dir/School_Test/c6/c6-1-3.c.o" "gcc" "CMakeFiles/c6-1-3.dir/School_Test/c6/c6-1-3.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

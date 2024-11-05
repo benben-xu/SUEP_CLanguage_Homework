@@ -44,19 +44,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake
 
 # The command to remove a file.
-RM = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E rm -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ben/CLionProjects/cProject
+CMAKE_SOURCE_DIR = /Users/jiamingxu/CLionProjects/cProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/07_valueConvert.dir/depend.make
@@ -70,116 +70,242 @@ include CMakeFiles/07_valueConvert.dir/progress.make
 include CMakeFiles/07_valueConvert.dir/flags.make
 
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o: /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c
+CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o: /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o -MF CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o.d -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o -c /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o -MF CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o.d -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o -c /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c
 
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c > CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c > CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.i
 
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.s
 
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o: /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c
+CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o: /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o -MF CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o.d -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o -c /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o -MF CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o.d -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o -c /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c
 
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c > CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c > CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.i
 
 CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/08_ConstantTest.c -o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.s
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o: /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-1.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-1.c
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-1.c
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-1.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-1.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.i
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-1.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-1.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.s
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o: /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-2.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-2.c
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-2.c
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-2.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-2.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.i
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-2.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-2.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.s
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o: /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-3.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-3.c
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-3.c
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-3.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-3.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.i
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-3.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-3.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.s
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o: /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-4.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-4.c
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-4.c
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-4.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-4.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.i
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c6/c6-1-4.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-1-4.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.s
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o: /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-1.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-1.c
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-1.c
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-1.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-1.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.i
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-1.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-1.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.s
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o: CMakeFiles/07_valueConvert.dir/flags.make
-CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o: /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-2.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-2.c
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o -c /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-2.c
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-2.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-2.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.i
 
 CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/ben/CLionProjects/cProject/School_Test/c6/c6-2-2.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-2.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-5.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-5.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-5.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-5.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-6.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-6.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-6.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-6.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-7.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-7.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-7.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-7.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-8.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-8.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-8.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-8.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-9.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-9.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-9.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-9.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-10.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-10.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-10.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-10.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-11.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-11.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-11.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-2-11.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-1.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-1.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-1.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-1.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.s
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o: CMakeFiles/07_valueConvert.dir/flags.make
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-2.c
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o: CMakeFiles/07_valueConvert.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o -MF CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o.d -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-2.c
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-2.c > CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.i
+
+CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c6/c6-3-2.c -o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.s
 
 # Object files for target 07_valueConvert
 07_valueConvert_OBJECTS = \
@@ -190,7 +316,16 @@ CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s: cmake_force
 "CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o" \
 "CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o" \
 "CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o" \
-"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o"
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o" \
+"CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o"
 
 # External object files for target 07_valueConvert
 07_valueConvert_EXTERNAL_OBJECTS =
@@ -203,9 +338,18 @@ CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s: cmake_force
 07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o
 07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o
 07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o
+07_valueConvert: CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o
 07_valueConvert: CMakeFiles/07_valueConvert.dir/build.make
 07_valueConvert: CMakeFiles/07_valueConvert.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable 07_valueConvert"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking C executable 07_valueConvert"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/07_valueConvert.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -217,6 +361,6 @@ CMakeFiles/07_valueConvert.dir/clean:
 .PHONY : CMakeFiles/07_valueConvert.dir/clean
 
 CMakeFiles/07_valueConvert.dir/depend:
-	cd /Users/ben/CLionProjects/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/ben/CLionProjects/cProject /Users/ben/CLionProjects/cProject /Users/ben/CLionProjects/cProject/cmake-build-debug /Users/ben/CLionProjects/cProject/cmake-build-debug /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles/07_valueConvert.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jiamingxu/CLionProjects/cProject /Users/jiamingxu/CLionProjects/cProject /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/07_valueConvert.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/07_valueConvert.dir/depend
 
