@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/c3-1-6.dir/School_Test/c3/c3-1-6.c.o" -o c3-1-6.exe -Wl,--out-implib,libc3-1-6.dll.a -Wl,--major-image-version,0,--minor-image-version,0

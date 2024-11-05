@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/c4-1-4.dir/School_Test/c4/c4-1-4.c.o" -o c4-1-4.exe -Wl,--out-implib,libc4-1-4.dll.a -Wl,--major-image-version,0,--minor-image-version,0
