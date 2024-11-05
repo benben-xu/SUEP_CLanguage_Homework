@@ -1,1 +1,0 @@
-/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/Yanghui.dir/Self-Learn/chapter02/Yanghui.c.o" -o Yanghui.exe -Wl,--out-implib,libYanghui.dll.a -Wl,--major-image-version,0,--minor-image-version,0
