@@ -48,19 +48,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake
 
 # The command to remove a file.
-RM = /Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E rm -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ben/CLionProjects/cProject
+CMAKE_SOURCE_DIR = /Users/jiamingxu/CLionProjects/cProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = /Users/ben/CLionProjects/cProject/cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "No interactive CMake dialog available..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -78,7 +78,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Running CMake to regenerate build system..."
-	/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles /Users/ben/CLionProjects/cProject/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ben/CLionProjects/cProject/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -934,6 +934,123 @@ c6-2-1: cmake_check_build_system
 c6-2-1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-1.dir/build.make CMakeFiles/c6-2-1.dir/build
 .PHONY : c6-2-1/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-5
+
+# Build rule for target.
+c6-2-5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-5
+.PHONY : c6-2-5
+
+# fast build rule for target.
+c6-2-5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-5.dir/build.make CMakeFiles/c6-2-5.dir/build
+.PHONY : c6-2-5/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-6
+
+# Build rule for target.
+c6-2-6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-6
+.PHONY : c6-2-6
+
+# fast build rule for target.
+c6-2-6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-6.dir/build.make CMakeFiles/c6-2-6.dir/build
+.PHONY : c6-2-6/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-7
+
+# Build rule for target.
+c6-2-7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-7
+.PHONY : c6-2-7
+
+# fast build rule for target.
+c6-2-7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-7.dir/build.make CMakeFiles/c6-2-7.dir/build
+.PHONY : c6-2-7/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-8
+
+# Build rule for target.
+c6-2-8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-8
+.PHONY : c6-2-8
+
+# fast build rule for target.
+c6-2-8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-8.dir/build.make CMakeFiles/c6-2-8.dir/build
+.PHONY : c6-2-8/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-9
+
+# Build rule for target.
+c6-2-9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-9
+.PHONY : c6-2-9
+
+# fast build rule for target.
+c6-2-9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-9.dir/build.make CMakeFiles/c6-2-9.dir/build
+.PHONY : c6-2-9/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-10
+
+# Build rule for target.
+c6-2-10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-10
+.PHONY : c6-2-10
+
+# fast build rule for target.
+c6-2-10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-10.dir/build.make CMakeFiles/c6-2-10.dir/build
+.PHONY : c6-2-10/fast
+
+#=============================================================================
+# Target rules for targets named c6-2-11
+
+# Build rule for target.
+c6-2-11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-2-11
+.PHONY : c6-2-11
+
+# fast build rule for target.
+c6-2-11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-11.dir/build.make CMakeFiles/c6-2-11.dir/build
+.PHONY : c6-2-11/fast
+
+#=============================================================================
+# Target rules for targets named c6-3-1
+
+# Build rule for target.
+c6-3-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-3-1
+.PHONY : c6-3-1
+
+# fast build rule for target.
+c6-3-1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-1.dir/build.make CMakeFiles/c6-3-1.dir/build
+.PHONY : c6-3-1/fast
+
+#=============================================================================
+# Target rules for targets named c6-3-2
+
+# Build rule for target.
+c6-3-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 c6-3-2
+.PHONY : c6-3-2
+
+# fast build rule for target.
+c6-3-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-2.dir/build.make CMakeFiles/c6-3-2.dir/build
+.PHONY : c6-3-2/fast
 
 School_Test/c2/c2-1-1.o: School_Test/c2/c2-1-1.c.o
 .PHONY : School_Test/c2/c2-1-1.o
@@ -2498,6 +2615,60 @@ School_Test/c6/c6-2-1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-1.dir/build.make CMakeFiles/c6-2-1.dir/School_Test/c6/c6-2-1.c.s
 .PHONY : School_Test/c6/c6-2-1.c.s
 
+School_Test/c6/c6-2-10.o: School_Test/c6/c6-2-10.c.o
+.PHONY : School_Test/c6/c6-2-10.o
+
+# target to build an object file
+School_Test/c6/c6-2-10.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-10.dir/build.make CMakeFiles/c6-2-10.dir/School_Test/c6/c6-2-10.c.o
+.PHONY : School_Test/c6/c6-2-10.c.o
+
+School_Test/c6/c6-2-10.i: School_Test/c6/c6-2-10.c.i
+.PHONY : School_Test/c6/c6-2-10.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-10.dir/build.make CMakeFiles/c6-2-10.dir/School_Test/c6/c6-2-10.c.i
+.PHONY : School_Test/c6/c6-2-10.c.i
+
+School_Test/c6/c6-2-10.s: School_Test/c6/c6-2-10.c.s
+.PHONY : School_Test/c6/c6-2-10.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-10.dir/build.make CMakeFiles/c6-2-10.dir/School_Test/c6/c6-2-10.c.s
+.PHONY : School_Test/c6/c6-2-10.c.s
+
+School_Test/c6/c6-2-11.o: School_Test/c6/c6-2-11.c.o
+.PHONY : School_Test/c6/c6-2-11.o
+
+# target to build an object file
+School_Test/c6/c6-2-11.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-11.dir/build.make CMakeFiles/c6-2-11.dir/School_Test/c6/c6-2-11.c.o
+.PHONY : School_Test/c6/c6-2-11.c.o
+
+School_Test/c6/c6-2-11.i: School_Test/c6/c6-2-11.c.i
+.PHONY : School_Test/c6/c6-2-11.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-11.dir/build.make CMakeFiles/c6-2-11.dir/School_Test/c6/c6-2-11.c.i
+.PHONY : School_Test/c6/c6-2-11.c.i
+
+School_Test/c6/c6-2-11.s: School_Test/c6/c6-2-11.c.s
+.PHONY : School_Test/c6/c6-2-11.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-11.dir/build.make CMakeFiles/c6-2-11.dir/School_Test/c6/c6-2-11.c.s
+.PHONY : School_Test/c6/c6-2-11.c.s
+
 School_Test/c6/c6-2-2.o: School_Test/c6/c6-2-2.c.o
 .PHONY : School_Test/c6/c6-2-2.o
 
@@ -2524,6 +2695,195 @@ School_Test/c6/c6-2-2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-2.dir/build.make CMakeFiles/c6-2-2.dir/School_Test/c6/c6-2-2.c.s
 .PHONY : School_Test/c6/c6-2-2.c.s
+
+School_Test/c6/c6-2-5.o: School_Test/c6/c6-2-5.c.o
+.PHONY : School_Test/c6/c6-2-5.o
+
+# target to build an object file
+School_Test/c6/c6-2-5.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-5.dir/build.make CMakeFiles/c6-2-5.dir/School_Test/c6/c6-2-5.c.o
+.PHONY : School_Test/c6/c6-2-5.c.o
+
+School_Test/c6/c6-2-5.i: School_Test/c6/c6-2-5.c.i
+.PHONY : School_Test/c6/c6-2-5.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-5.dir/build.make CMakeFiles/c6-2-5.dir/School_Test/c6/c6-2-5.c.i
+.PHONY : School_Test/c6/c6-2-5.c.i
+
+School_Test/c6/c6-2-5.s: School_Test/c6/c6-2-5.c.s
+.PHONY : School_Test/c6/c6-2-5.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-5.dir/build.make CMakeFiles/c6-2-5.dir/School_Test/c6/c6-2-5.c.s
+.PHONY : School_Test/c6/c6-2-5.c.s
+
+School_Test/c6/c6-2-6.o: School_Test/c6/c6-2-6.c.o
+.PHONY : School_Test/c6/c6-2-6.o
+
+# target to build an object file
+School_Test/c6/c6-2-6.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-6.dir/build.make CMakeFiles/c6-2-6.dir/School_Test/c6/c6-2-6.c.o
+.PHONY : School_Test/c6/c6-2-6.c.o
+
+School_Test/c6/c6-2-6.i: School_Test/c6/c6-2-6.c.i
+.PHONY : School_Test/c6/c6-2-6.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-6.dir/build.make CMakeFiles/c6-2-6.dir/School_Test/c6/c6-2-6.c.i
+.PHONY : School_Test/c6/c6-2-6.c.i
+
+School_Test/c6/c6-2-6.s: School_Test/c6/c6-2-6.c.s
+.PHONY : School_Test/c6/c6-2-6.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-6.dir/build.make CMakeFiles/c6-2-6.dir/School_Test/c6/c6-2-6.c.s
+.PHONY : School_Test/c6/c6-2-6.c.s
+
+School_Test/c6/c6-2-7.o: School_Test/c6/c6-2-7.c.o
+.PHONY : School_Test/c6/c6-2-7.o
+
+# target to build an object file
+School_Test/c6/c6-2-7.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-7.dir/build.make CMakeFiles/c6-2-7.dir/School_Test/c6/c6-2-7.c.o
+.PHONY : School_Test/c6/c6-2-7.c.o
+
+School_Test/c6/c6-2-7.i: School_Test/c6/c6-2-7.c.i
+.PHONY : School_Test/c6/c6-2-7.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-7.dir/build.make CMakeFiles/c6-2-7.dir/School_Test/c6/c6-2-7.c.i
+.PHONY : School_Test/c6/c6-2-7.c.i
+
+School_Test/c6/c6-2-7.s: School_Test/c6/c6-2-7.c.s
+.PHONY : School_Test/c6/c6-2-7.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-7.dir/build.make CMakeFiles/c6-2-7.dir/School_Test/c6/c6-2-7.c.s
+.PHONY : School_Test/c6/c6-2-7.c.s
+
+School_Test/c6/c6-2-8.o: School_Test/c6/c6-2-8.c.o
+.PHONY : School_Test/c6/c6-2-8.o
+
+# target to build an object file
+School_Test/c6/c6-2-8.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-8.dir/build.make CMakeFiles/c6-2-8.dir/School_Test/c6/c6-2-8.c.o
+.PHONY : School_Test/c6/c6-2-8.c.o
+
+School_Test/c6/c6-2-8.i: School_Test/c6/c6-2-8.c.i
+.PHONY : School_Test/c6/c6-2-8.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-8.dir/build.make CMakeFiles/c6-2-8.dir/School_Test/c6/c6-2-8.c.i
+.PHONY : School_Test/c6/c6-2-8.c.i
+
+School_Test/c6/c6-2-8.s: School_Test/c6/c6-2-8.c.s
+.PHONY : School_Test/c6/c6-2-8.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-8.dir/build.make CMakeFiles/c6-2-8.dir/School_Test/c6/c6-2-8.c.s
+.PHONY : School_Test/c6/c6-2-8.c.s
+
+School_Test/c6/c6-2-9.o: School_Test/c6/c6-2-9.c.o
+.PHONY : School_Test/c6/c6-2-9.o
+
+# target to build an object file
+School_Test/c6/c6-2-9.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-9.dir/build.make CMakeFiles/c6-2-9.dir/School_Test/c6/c6-2-9.c.o
+.PHONY : School_Test/c6/c6-2-9.c.o
+
+School_Test/c6/c6-2-9.i: School_Test/c6/c6-2-9.c.i
+.PHONY : School_Test/c6/c6-2-9.i
+
+# target to preprocess a source file
+School_Test/c6/c6-2-9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-9.dir/build.make CMakeFiles/c6-2-9.dir/School_Test/c6/c6-2-9.c.i
+.PHONY : School_Test/c6/c6-2-9.c.i
+
+School_Test/c6/c6-2-9.s: School_Test/c6/c6-2-9.c.s
+.PHONY : School_Test/c6/c6-2-9.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-2-9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-2-9.dir/build.make CMakeFiles/c6-2-9.dir/School_Test/c6/c6-2-9.c.s
+.PHONY : School_Test/c6/c6-2-9.c.s
+
+School_Test/c6/c6-3-1.o: School_Test/c6/c6-3-1.c.o
+.PHONY : School_Test/c6/c6-3-1.o
+
+# target to build an object file
+School_Test/c6/c6-3-1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-1.dir/build.make CMakeFiles/c6-3-1.dir/School_Test/c6/c6-3-1.c.o
+.PHONY : School_Test/c6/c6-3-1.c.o
+
+School_Test/c6/c6-3-1.i: School_Test/c6/c6-3-1.c.i
+.PHONY : School_Test/c6/c6-3-1.i
+
+# target to preprocess a source file
+School_Test/c6/c6-3-1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-1.dir/build.make CMakeFiles/c6-3-1.dir/School_Test/c6/c6-3-1.c.i
+.PHONY : School_Test/c6/c6-3-1.c.i
+
+School_Test/c6/c6-3-1.s: School_Test/c6/c6-3-1.c.s
+.PHONY : School_Test/c6/c6-3-1.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-3-1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-1.dir/build.make CMakeFiles/c6-3-1.dir/School_Test/c6/c6-3-1.c.s
+.PHONY : School_Test/c6/c6-3-1.c.s
+
+School_Test/c6/c6-3-2.o: School_Test/c6/c6-3-2.c.o
+.PHONY : School_Test/c6/c6-3-2.o
+
+# target to build an object file
+School_Test/c6/c6-3-2.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-2.dir/build.make CMakeFiles/c6-3-2.dir/School_Test/c6/c6-3-2.c.o
+.PHONY : School_Test/c6/c6-3-2.c.o
+
+School_Test/c6/c6-3-2.i: School_Test/c6/c6-3-2.c.i
+.PHONY : School_Test/c6/c6-3-2.i
+
+# target to preprocess a source file
+School_Test/c6/c6-3-2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-2.dir/build.make CMakeFiles/c6-3-2.dir/School_Test/c6/c6-3-2.c.i
+.PHONY : School_Test/c6/c6-3-2.c.i
+
+School_Test/c6/c6-3-2.s: School_Test/c6/c6-3-2.c.s
+.PHONY : School_Test/c6/c6-3-2.s
+
+# target to generate assembly for a file
+School_Test/c6/c6-3-2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/07_valueConvert.dir/build.make CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c6-3-2.dir/build.make CMakeFiles/c6-3-2.dir/School_Test/c6/c6-3-2.c.s
+.PHONY : School_Test/c6/c6-3-2.c.s
 
 Self-Learn/chapter02/03_IntTest.o: Self-Learn/chapter02/03_IntTest.c.o
 .PHONY : Self-Learn/chapter02/03_IntTest.o
@@ -2744,7 +3104,16 @@ help:
 	@echo "... c6-1-3"
 	@echo "... c6-1-4"
 	@echo "... c6-2-1"
+	@echo "... c6-2-10"
+	@echo "... c6-2-11"
 	@echo "... c6-2-2"
+	@echo "... c6-2-5"
+	@echo "... c6-2-6"
+	@echo "... c6-2-7"
+	@echo "... c6-2-8"
+	@echo "... c6-2-9"
+	@echo "... c6-3-1"
+	@echo "... c6-3-2"
 	@echo "... cProject"
 	@echo "... hello"
 	@echo "... main"
@@ -2923,9 +3292,36 @@ help:
 	@echo "... School_Test/c6/c6-2-1.o"
 	@echo "... School_Test/c6/c6-2-1.i"
 	@echo "... School_Test/c6/c6-2-1.s"
+	@echo "... School_Test/c6/c6-2-10.o"
+	@echo "... School_Test/c6/c6-2-10.i"
+	@echo "... School_Test/c6/c6-2-10.s"
+	@echo "... School_Test/c6/c6-2-11.o"
+	@echo "... School_Test/c6/c6-2-11.i"
+	@echo "... School_Test/c6/c6-2-11.s"
 	@echo "... School_Test/c6/c6-2-2.o"
 	@echo "... School_Test/c6/c6-2-2.i"
 	@echo "... School_Test/c6/c6-2-2.s"
+	@echo "... School_Test/c6/c6-2-5.o"
+	@echo "... School_Test/c6/c6-2-5.i"
+	@echo "... School_Test/c6/c6-2-5.s"
+	@echo "... School_Test/c6/c6-2-6.o"
+	@echo "... School_Test/c6/c6-2-6.i"
+	@echo "... School_Test/c6/c6-2-6.s"
+	@echo "... School_Test/c6/c6-2-7.o"
+	@echo "... School_Test/c6/c6-2-7.i"
+	@echo "... School_Test/c6/c6-2-7.s"
+	@echo "... School_Test/c6/c6-2-8.o"
+	@echo "... School_Test/c6/c6-2-8.i"
+	@echo "... School_Test/c6/c6-2-8.s"
+	@echo "... School_Test/c6/c6-2-9.o"
+	@echo "... School_Test/c6/c6-2-9.i"
+	@echo "... School_Test/c6/c6-2-9.s"
+	@echo "... School_Test/c6/c6-3-1.o"
+	@echo "... School_Test/c6/c6-3-1.i"
+	@echo "... School_Test/c6/c6-3-1.s"
+	@echo "... School_Test/c6/c6-3-2.o"
+	@echo "... School_Test/c6/c6-3-2.i"
+	@echo "... School_Test/c6/c6-3-2.s"
 	@echo "... Self-Learn/chapter02/03_IntTest.o"
 	@echo "... Self-Learn/chapter02/03_IntTest.i"
 	@echo "... Self-Learn/chapter02/03_IntTest.s"
