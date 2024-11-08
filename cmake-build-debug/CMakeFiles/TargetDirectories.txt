@@ -70,5 +70,14 @@
 /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c6-2-11.dir
 /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c6-3-1.dir
 /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c6-3-2.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-1-1.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-1-2.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-1-3.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-1-4.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-1-5.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-1-6.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-2-1.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-2-2.dir
+/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c10-2-3.dir
 /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
