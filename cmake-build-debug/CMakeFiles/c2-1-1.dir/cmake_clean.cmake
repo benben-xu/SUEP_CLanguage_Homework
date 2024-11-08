@@ -109,8 +109,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o.d"
   "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o"
   "CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o.d"
-  "c2-1-1"
+  "c2-1-1.exe"
   "c2-1-1.pdb"
+  "libc2-1-1.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

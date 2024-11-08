@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "07_valueConvert"
+  "07_valueConvert.exe"
   "07_valueConvert.pdb"
   "CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o"
   "CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o.d"
@@ -35,6 +35,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o.d"
   "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o"
   "CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o.d"
+  "lib07_valueConvert.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

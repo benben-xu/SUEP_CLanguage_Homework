@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o" -o 24_gotoTest
+/usr/bin/cc -g -Wl,--enable-auto-import "CMakeFiles/24_gotoTest.dir/Self-Learn/chapter02/24_gotoTest.c.o" -o 24_gotoTest.exe -Wl,--out-implib,lib24_gotoTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0

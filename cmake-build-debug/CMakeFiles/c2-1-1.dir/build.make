@@ -44,19 +44,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake
+CMAKE_COMMAND = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe
 
 # The command to remove a file.
-RM = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -E rm -f
+RM = /cygdrive/c/Users/benben/AppData/Local/JetBrains/CLion2024.2/cygwin_cmake/bin/cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jiamingxu/CLionProjects/cProject
+CMAKE_SOURCE_DIR = /cygdrive/d/share/cProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/d/share/cProject/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/c2-1-1.dir/depend.make
@@ -70,774 +70,774 @@ include CMakeFiles/c2-1-1.dir/progress.make
 include CMakeFiles/c2-1-1.dir/flags.make
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o: /cygdrive/d/share/cProject/School_Test/c2/c2-1-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o -c /cygdrive/d/share/cProject/School_Test/c2/c2-1-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c2/c2-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c2/c2-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-7.c
+CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o: /cygdrive/d/share/cProject/School_Test/c2/c2-1-7.c
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o -c /cygdrive/d/share/cProject/School_Test/c2/c2-1-7.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-7.c > CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c2/c2-1-7.c > CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c2/c2-1-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-13.c
+CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o: /cygdrive/d/share/cProject/School_Test/c2/c2-1-13.c
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-13.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o -c /cygdrive/d/share/cProject/School_Test/c2/c2-1-13.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-13.c > CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c2/c2-1-13.c > CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c2/c2-1-13.c -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c2/c2-1-13.c -o CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-2.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-2.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-3.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-3.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-3.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-3.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-3.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-4.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-4.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-4.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-4.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-4.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-5.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-5.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-5.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-5.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-5.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-6.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-6.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-6.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-6.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-6.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-7.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-7.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-7.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-7.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-7.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-8.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-8.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-8.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-8.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-8.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-8.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-8.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-9.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-1-9.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-9.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-1-9.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-9.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-1-9.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-1-9.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-1-9.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-2-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-2-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-1.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-2-1.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-2-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-2-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-2-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-2.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-2-2.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-2-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-3.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-2-3.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-2-3.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-3.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-2-3.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-2-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-4.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-2-4.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-2-4.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-4.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-2-4.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-2-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-5.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-2-5.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-2-5.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-5.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-2-5.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-2-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-6.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-2-6.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-2-6.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-6.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-2-6.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-2-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-2-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-3-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-3-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-1.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-3-1.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-3-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o: /cygdrive/d/share/cProject/School_Test/c3/c3-3-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o -c /cygdrive/d/share/cProject/School_Test/c3/c3-3-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-2.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c3/c3-3-2.c > CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c3/c3-3-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c3/c3-3-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-1-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-1-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-1-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-1-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-2.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-1-2.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-1-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-3.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-1-3.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-1-3.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-3.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-1-3.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-1-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-4.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-1-4.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-1-4.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-4.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-1-4.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-1-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-1-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-2.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-2.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-3.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-3.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-3.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-3.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-3.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-4.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-4.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-4.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-4.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-4.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-5.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-5.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-5.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-5-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-5-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-5-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-5-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-5-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-6.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-6.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-6.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-6.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-6.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-7.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-7.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-7.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-7.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-7.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-8.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-2-8.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-2-8.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-8.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-2-8.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-2-8.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-2-8.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-3-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-3-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-3-1.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-3-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o: /cygdrive/d/share/cProject/School_Test/c4/c4-3-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o -c /cygdrive/d/share/cProject/School_Test/c4/c4-3-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-2.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/c4-3-2.c > CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/c4-3-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/c4-3-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/test.c
+CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o: /cygdrive/d/share/cProject/School_Test/c4/test.c
 CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o -c /cygdrive/d/share/cProject/School_Test/c4/test.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/test.c > CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c4/test.c > CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c4/test.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c4/test.c -o CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-1-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-1-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-1-1.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-1-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-1-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-1-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-2.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-1-2.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-1-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-1-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-1.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-1.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-2.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-2.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-3.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-3.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-3.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-3.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-3.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-3.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-4.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-4.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-4.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-4.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-4.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-4.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-5.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-5.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-5.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-5.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-5.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-5.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-6.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-6.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-6.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-6.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-6.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-6.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-7.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-7.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-7.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-7.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-7.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-7.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-8.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-8.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-8.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-8.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-8.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-8.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-8.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-9.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-9.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-9.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-9.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-9.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-9.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-9.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-9.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-10.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-10.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-10.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-10.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-10.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-10.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-10.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-10.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.s
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o: /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/03_IntTest.c
+CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o: /cygdrive/d/share/cProject/Self-Learn/chapter02/03_IntTest.c
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o -c /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/03_IntTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o -c /cygdrive/d/share/cProject/Self-Learn/chapter02/03_IntTest.c
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/03_IntTest.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/Self-Learn/chapter02/03_IntTest.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.i
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/03_IntTest.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/Self-Learn/chapter02/03_IntTest.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.s
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o: /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c
+CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o: /cygdrive/d/share/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o -c /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o -c /cygdrive/d/share/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.i
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/Self-Learn/chapter02/04_FloatDoubleTest.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.s
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o: /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c
+CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o: /cygdrive/d/share/cProject/Self-Learn/chapter02/07_valueConvert.c
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o -c /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o -c /cygdrive/d/share/cProject/Self-Learn/chapter02/07_valueConvert.c
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/Self-Learn/chapter02/07_valueConvert.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.i
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/07_valueConvert.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/Self-Learn/chapter02/07_valueConvert.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.s
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o: /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c
+CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o: /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o -c /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o -MF CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o.d -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o -c /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c > CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.i
 
 CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/Self-Learn/chapter02/24_gotoTest.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/Self-Learn/chapter02/24_gotoTest.c -o CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-11.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-2-11.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-11.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-2-11.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-11.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-2-11.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-2-11.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-2-11.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-1.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-3-1.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-3-1.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-1.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-3-1.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-3-1.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.s
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o: CMakeFiles/c2-1-1.dir/flags.make
-CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o: /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-2.c
+CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o: /cygdrive/d/share/cProject/School_Test/c5/c5-3-2.c
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o: CMakeFiles/c2-1-1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o -c /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o -MF CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o.d -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o -c /cygdrive/d/share/cProject/School_Test/c5/c5-3-2.c
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-2.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/d/share/cProject/School_Test/c5/c5-3-2.c > CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.i
 
 CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jiamingxu/CLionProjects/cProject/School_Test/c5/c5-3-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/d/share/cProject/School_Test/c5/c5-3-2.c -o CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.s
 
 # Object files for target c2-1-1
 c2__1__1_OBJECTS = \
@@ -900,68 +900,68 @@ c2__1__1_OBJECTS = \
 # External object files for target c2-1-1
 c2__1__1_EXTERNAL_OBJECTS =
 
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o
-c2-1-1: CMakeFiles/c2-1-1.dir/build.make
-c2-1-1: CMakeFiles/c2-1-1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking C executable c2-1-1"
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-7.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c2/c2-1-13.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-3.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-4.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-5.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-6.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-7.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-8.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-1-9.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-3.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-4.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-5.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-2-6.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c3/c3-3-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-3.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-1-4.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-3.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-4.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-5-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-6.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-7.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-2-8.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/c4-3-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c4/test.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-1-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-3.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-4.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-5.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-6.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-7.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-8.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-9.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-10.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/03_IntTest.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/04_FloatDoubleTest.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/07_valueConvert.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/Self-Learn/chapter02/24_gotoTest.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-2-11.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-1.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/School_Test/c5/c5-3-2.c.o
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/build.make
+c2-1-1.exe: CMakeFiles/c2-1-1.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking C executable c2-1-1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c2-1-1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/c2-1-1.dir/build: c2-1-1
+CMakeFiles/c2-1-1.dir/build: c2-1-1.exe
 .PHONY : CMakeFiles/c2-1-1.dir/build
 
 CMakeFiles/c2-1-1.dir/clean:
@@ -969,6 +969,6 @@ CMakeFiles/c2-1-1.dir/clean:
 .PHONY : CMakeFiles/c2-1-1.dir/clean
 
 CMakeFiles/c2-1-1.dir/depend:
-	cd /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jiamingxu/CLionProjects/cProject /Users/jiamingxu/CLionProjects/cProject /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug/CMakeFiles/c2-1-1.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /cygdrive/d/share/cProject/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/d/share/cProject /cygdrive/d/share/cProject /cygdrive/d/share/cProject/cmake-build-debug /cygdrive/d/share/cProject/cmake-build-debug /cygdrive/d/share/cProject/cmake-build-debug/CMakeFiles/c2-1-1.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/c2-1-1.dir/depend
 
