@@ -164,7 +164,29 @@ add_executable(07_valueConvert Self-Learn/chapter02/07_valueConvert.c
         School_Test/c8/c8-2-1.c
         School_Test/c8/c8-2-2.c
         School_Test/c8/c8-2-3.c
-        School_Test/c8/c8-2-4.c)
+        School_Test/c8/c8-2-4.c
+        School_Test/c8/c8-2-5.c
+        School_Test/c8/c8-2-6.c
+        School_Test/c8/c8-2-7.c
+        School_Test/c8/c8-3.c
+        School_Test/c9/c9-1-1.c
+        School_Test/c9/c9-1-2.c
+        "School_Test/c9/c9-1-3.c"
+        School_Test/c9/c9-1-4.c
+        School_Test/c9/c9-2-1.c
+        School_Test/c9/c9-2-2.c
+        School_Test/c9/c9-2-3.c
+        School_Test/c9/c9-2-4.c
+        "School_Test/c9/ c9-2-5.c"
+        School_Test/c9/c9-2-6.c
+        School_Test/c9/c9-2-7.c
+        School_Test/c9/c9-2-8.c
+        School_Test/c9/c9-3-1.c
+        School_Test/c9/c9-3-2.c
+        School_Test/c10/c10-2-9.c
+        School_Test/c10/c10-2-10.c
+        "School_Test/c10/c10-2-11.c"
+        School_Test/c10/c10-2-12.c)
 add_executable(24_gotoTest Self-Learn/chapter02/24_gotoTest.c)
 add_executable(c5-2-11 School_Test/c5/c5-2-11.c)
 add_executable(c5-3-1 School_Test/c5/c5-3-1.c)
@@ -218,3 +240,25 @@ add_executable(c8-2-1 School_Test/c8/c8-2-1.c)
 add_executable(c8-2-2 School_Test/c8/c8-2-2.c)
 add_executable(c8-2-3 School_Test/c8/c8-2-3.c)
 add_executable(c8-2-4 School_Test/c8/c8-2-4.c)
+add_executable(c8-2-5 School_Test/c8/c8-2-5.c)
+add_executable(c8-2-6 School_Test/c8/c8-2-6.c)
+add_executable(c8-2-7 School_Test/c8/c8-2-7.c)
+add_executable(c8-3 School_Test/c8/c8-3.c)
+add_executable(c9-1-1 School_Test/c9/c9-1-1.c)
+add_executable(c9-1-2 School_Test/c9/c9-1-2.c)
+add_executable(c9-1-3.c  "School_Test/c9/c9-1-3.c")
+add_executable(c9-1-4 School_Test/c9/c9-1-4.c)
+add_executable(c9-2-1 School_Test/c9/c9-2-1.c)
+add_executable(c9-2-2 School_Test/c9/c9-2-2.c)
+add_executable(c9-2-3 School_Test/c9/c9-2-3.c)
+add_executable(c9-2-4 School_Test/c9/c9-2-4.c)
+add_executable( c9-2-5 "School_Test/c9/ c9-2-5.c")
+add_executable(c9-2-6 School_Test/c9/c9-2-6.c)
+add_executable(c9-2-7 School_Test/c9/c9-2-7.c)
+add_executable(c9-2-8 School_Test/c9/c9-2-8.c)
+add_executable(c9-3-2 School_Test/c9/c9-3-2.c)
+add_executable(c9-3-1 School_Test/c9/c9-3-1.c)
+add_executable(c10-2-9 School_Test/c10/c10-2-9.c)
+add_executable(c10-2-10 School_Test/c10/c10-2-10.c)
+add_executable( c10-2-11 "School_Test/c10/c10-2-11.c")
+add_executable(c10-2-12 School_Test/c10/c10-2-12.c)

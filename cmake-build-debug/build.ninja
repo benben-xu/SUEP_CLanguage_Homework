@@ -2303,6 +2303,138 @@ build CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-4.c.o: C_COMPILER__07_v
   OBJECT_DIR = CMakeFiles/07_valueConvert.dir
   OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c8
 
+build CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-5.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-2-5.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-5.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c8
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-6.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-2-6.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-6.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c8
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-7.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-2-7.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-7.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c8
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-3.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-3.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c8
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-1.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-1.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-2.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-2.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-3.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-3.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-4.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-4.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-1.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-1.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-2.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-2.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-3.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-3.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-4.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-4.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/_c9-2-5.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/$ c9-2-5.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/_c9-2-5.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-6.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-6.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-6.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-7.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-7.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-7.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-8.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-8.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-8.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-3-1.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-3-1.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-3-1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-3-2.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-3-2.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-3-2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c9
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-9.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-9.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-9.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c10
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-10.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-10.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-10.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c10
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-11.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-11.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-11.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c10
+
+build CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-12.c.o: C_COMPILER__07_valueConvert_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-12.c || cmake_object_order_depends_target_07_valueConvert
+  DEP_FILE = CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-12.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/07_valueConvert.dir
+  OBJECT_FILE_DIR = CMakeFiles/07_valueConvert.dir/School_Test/c10
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 07_valueConvert
@@ -2311,7 +2443,7 @@ build CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-4.c.o: C_COMPILER__07_v
 #############################################
 # Link the executable 07_valueConvert
 
-build 07_valueConvert: C_EXECUTABLE_LINKER__07_valueConvert_Debug CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-9.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-10.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-11.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-4.c.o
+build 07_valueConvert: C_EXECUTABLE_LINKER__07_valueConvert_Debug CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/07_valueConvert.c.o CMakeFiles/07_valueConvert.dir/Self-Learn/chapter02/08_ConstantTest.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-1-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-9.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-10.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-2-11.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c6/c6-3-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-1-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-9.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-10.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-2-11.c.o CMakeFiles/07_valueConvert.dir/School_Test/c7/c7-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c8/c8-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-1-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-3.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-4.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/_c9-2-5.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-6.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-7.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-2-8.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-3-1.c.o CMakeFiles/07_valueConvert.dir/School_Test/c9/c9-3-2.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-9.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-10.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-11.c.o CMakeFiles/07_valueConvert.dir/School_Test/c10/c10-2-12.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
   OBJECT_DIR = CMakeFiles/07_valueConvert.dir
   POST_BUILD = :
@@ -3962,6 +4094,688 @@ build c8-2-4: C_EXECUTABLE_LINKER__c8-2-4_Debug CMakeFiles/c8-2-4.dir/School_Tes
   TARGET_FILE = c8-2-4
   TARGET_PDB = c8-2-4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target c8-2-5
+
+
+#############################################
+# Order-only phony target for c8-2-5
+
+build cmake_object_order_depends_target_c8-2-5: phony || .
+
+build CMakeFiles/c8-2-5.dir/School_Test/c8/c8-2-5.c.o: C_COMPILER__c8-2-5_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-2-5.c || cmake_object_order_depends_target_c8-2-5
+  DEP_FILE = CMakeFiles/c8-2-5.dir/School_Test/c8/c8-2-5.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c8-2-5.dir
+  OBJECT_FILE_DIR = CMakeFiles/c8-2-5.dir/School_Test/c8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c8-2-5
+
+
+#############################################
+# Link the executable c8-2-5
+
+build c8-2-5: C_EXECUTABLE_LINKER__c8-2-5_Debug CMakeFiles/c8-2-5.dir/School_Test/c8/c8-2-5.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c8-2-5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c8-2-5
+  TARGET_PDB = c8-2-5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c8-2-6
+
+
+#############################################
+# Order-only phony target for c8-2-6
+
+build cmake_object_order_depends_target_c8-2-6: phony || .
+
+build CMakeFiles/c8-2-6.dir/School_Test/c8/c8-2-6.c.o: C_COMPILER__c8-2-6_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-2-6.c || cmake_object_order_depends_target_c8-2-6
+  DEP_FILE = CMakeFiles/c8-2-6.dir/School_Test/c8/c8-2-6.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c8-2-6.dir
+  OBJECT_FILE_DIR = CMakeFiles/c8-2-6.dir/School_Test/c8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c8-2-6
+
+
+#############################################
+# Link the executable c8-2-6
+
+build c8-2-6: C_EXECUTABLE_LINKER__c8-2-6_Debug CMakeFiles/c8-2-6.dir/School_Test/c8/c8-2-6.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c8-2-6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c8-2-6
+  TARGET_PDB = c8-2-6.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c8-2-7
+
+
+#############################################
+# Order-only phony target for c8-2-7
+
+build cmake_object_order_depends_target_c8-2-7: phony || .
+
+build CMakeFiles/c8-2-7.dir/School_Test/c8/c8-2-7.c.o: C_COMPILER__c8-2-7_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-2-7.c || cmake_object_order_depends_target_c8-2-7
+  DEP_FILE = CMakeFiles/c8-2-7.dir/School_Test/c8/c8-2-7.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c8-2-7.dir
+  OBJECT_FILE_DIR = CMakeFiles/c8-2-7.dir/School_Test/c8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c8-2-7
+
+
+#############################################
+# Link the executable c8-2-7
+
+build c8-2-7: C_EXECUTABLE_LINKER__c8-2-7_Debug CMakeFiles/c8-2-7.dir/School_Test/c8/c8-2-7.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c8-2-7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c8-2-7
+  TARGET_PDB = c8-2-7.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c8-3
+
+
+#############################################
+# Order-only phony target for c8-3
+
+build cmake_object_order_depends_target_c8-3: phony || .
+
+build CMakeFiles/c8-3.dir/School_Test/c8/c8-3.c.o: C_COMPILER__c8-3_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c8/c8-3.c || cmake_object_order_depends_target_c8-3
+  DEP_FILE = CMakeFiles/c8-3.dir/School_Test/c8/c8-3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c8-3.dir
+  OBJECT_FILE_DIR = CMakeFiles/c8-3.dir/School_Test/c8
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c8-3
+
+
+#############################################
+# Link the executable c8-3
+
+build c8-3: C_EXECUTABLE_LINKER__c8-3_Debug CMakeFiles/c8-3.dir/School_Test/c8/c8-3.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c8-3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c8-3
+  TARGET_PDB = c8-3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-1-1
+
+
+#############################################
+# Order-only phony target for c9-1-1
+
+build cmake_object_order_depends_target_c9-1-1: phony || .
+
+build CMakeFiles/c9-1-1.dir/School_Test/c9/c9-1-1.c.o: C_COMPILER__c9-1-1_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-1.c || cmake_object_order_depends_target_c9-1-1
+  DEP_FILE = CMakeFiles/c9-1-1.dir/School_Test/c9/c9-1-1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-1-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-1-1.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-1-1
+
+
+#############################################
+# Link the executable c9-1-1
+
+build c9-1-1: C_EXECUTABLE_LINKER__c9-1-1_Debug CMakeFiles/c9-1-1.dir/School_Test/c9/c9-1-1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-1-1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-1-1
+  TARGET_PDB = c9-1-1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-1-2
+
+
+#############################################
+# Order-only phony target for c9-1-2
+
+build cmake_object_order_depends_target_c9-1-2: phony || .
+
+build CMakeFiles/c9-1-2.dir/School_Test/c9/c9-1-2.c.o: C_COMPILER__c9-1-2_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-2.c || cmake_object_order_depends_target_c9-1-2
+  DEP_FILE = CMakeFiles/c9-1-2.dir/School_Test/c9/c9-1-2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-1-2.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-1-2.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-1-2
+
+
+#############################################
+# Link the executable c9-1-2
+
+build c9-1-2: C_EXECUTABLE_LINKER__c9-1-2_Debug CMakeFiles/c9-1-2.dir/School_Test/c9/c9-1-2.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-1-2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-1-2
+  TARGET_PDB = c9-1-2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-1-3.c
+
+
+#############################################
+# Order-only phony target for c9-1-3.c
+
+build cmake_object_order_depends_target_c9-1-3.c: phony || .
+
+build CMakeFiles/c9-1-3.c.dir/School_Test/c9/c9-1-3.c.o: C_COMPILER__c9-1-3.2ec_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-3.c || cmake_object_order_depends_target_c9-1-3.c
+  DEP_FILE = CMakeFiles/c9-1-3.c.dir/School_Test/c9/c9-1-3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-1-3.c.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-1-3.c.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-1-3.c
+
+
+#############################################
+# Link the executable c9-1-3.c
+
+build c9-1-3.c: C_EXECUTABLE_LINKER__c9-1-3.2ec_Debug CMakeFiles/c9-1-3.c.dir/School_Test/c9/c9-1-3.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-1-3.c.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-1-3.c
+  TARGET_PDB = c9-1-3.c.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-1-4
+
+
+#############################################
+# Order-only phony target for c9-1-4
+
+build cmake_object_order_depends_target_c9-1-4: phony || .
+
+build CMakeFiles/c9-1-4.dir/School_Test/c9/c9-1-4.c.o: C_COMPILER__c9-1-4_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-1-4.c || cmake_object_order_depends_target_c9-1-4
+  DEP_FILE = CMakeFiles/c9-1-4.dir/School_Test/c9/c9-1-4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-1-4.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-1-4.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-1-4
+
+
+#############################################
+# Link the executable c9-1-4
+
+build c9-1-4: C_EXECUTABLE_LINKER__c9-1-4_Debug CMakeFiles/c9-1-4.dir/School_Test/c9/c9-1-4.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-1-4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-1-4
+  TARGET_PDB = c9-1-4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-1
+
+
+#############################################
+# Order-only phony target for c9-2-1
+
+build cmake_object_order_depends_target_c9-2-1: phony || .
+
+build CMakeFiles/c9-2-1.dir/School_Test/c9/c9-2-1.c.o: C_COMPILER__c9-2-1_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-1.c || cmake_object_order_depends_target_c9-2-1
+  DEP_FILE = CMakeFiles/c9-2-1.dir/School_Test/c9/c9-2-1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-1.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-1
+
+
+#############################################
+# Link the executable c9-2-1
+
+build c9-2-1: C_EXECUTABLE_LINKER__c9-2-1_Debug CMakeFiles/c9-2-1.dir/School_Test/c9/c9-2-1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-1
+  TARGET_PDB = c9-2-1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-2
+
+
+#############################################
+# Order-only phony target for c9-2-2
+
+build cmake_object_order_depends_target_c9-2-2: phony || .
+
+build CMakeFiles/c9-2-2.dir/School_Test/c9/c9-2-2.c.o: C_COMPILER__c9-2-2_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-2.c || cmake_object_order_depends_target_c9-2-2
+  DEP_FILE = CMakeFiles/c9-2-2.dir/School_Test/c9/c9-2-2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-2.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-2.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-2
+
+
+#############################################
+# Link the executable c9-2-2
+
+build c9-2-2: C_EXECUTABLE_LINKER__c9-2-2_Debug CMakeFiles/c9-2-2.dir/School_Test/c9/c9-2-2.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-2
+  TARGET_PDB = c9-2-2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-3
+
+
+#############################################
+# Order-only phony target for c9-2-3
+
+build cmake_object_order_depends_target_c9-2-3: phony || .
+
+build CMakeFiles/c9-2-3.dir/School_Test/c9/c9-2-3.c.o: C_COMPILER__c9-2-3_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-3.c || cmake_object_order_depends_target_c9-2-3
+  DEP_FILE = CMakeFiles/c9-2-3.dir/School_Test/c9/c9-2-3.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-3.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-3.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-3
+
+
+#############################################
+# Link the executable c9-2-3
+
+build c9-2-3: C_EXECUTABLE_LINKER__c9-2-3_Debug CMakeFiles/c9-2-3.dir/School_Test/c9/c9-2-3.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-3
+  TARGET_PDB = c9-2-3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-4
+
+
+#############################################
+# Order-only phony target for c9-2-4
+
+build cmake_object_order_depends_target_c9-2-4: phony || .
+
+build CMakeFiles/c9-2-4.dir/School_Test/c9/c9-2-4.c.o: C_COMPILER__c9-2-4_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-4.c || cmake_object_order_depends_target_c9-2-4
+  DEP_FILE = CMakeFiles/c9-2-4.dir/School_Test/c9/c9-2-4.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-4.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-4.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-4
+
+
+#############################################
+# Link the executable c9-2-4
+
+build c9-2-4: C_EXECUTABLE_LINKER__c9-2-4_Debug CMakeFiles/c9-2-4.dir/School_Test/c9/c9-2-4.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-4
+  TARGET_PDB = c9-2-4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-5
+
+
+#############################################
+# Order-only phony target for c9-2-5
+
+build cmake_object_order_depends_target_c9-2-5: phony || .
+
+build CMakeFiles/c9-2-5.dir/School_Test/c9/_c9-2-5.c.o: C_COMPILER__c9-2-5_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/$ c9-2-5.c || cmake_object_order_depends_target_c9-2-5
+  DEP_FILE = CMakeFiles/c9-2-5.dir/School_Test/c9/_c9-2-5.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-5.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-5.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-5
+
+
+#############################################
+# Link the executable c9-2-5
+
+build c9-2-5: C_EXECUTABLE_LINKER__c9-2-5_Debug CMakeFiles/c9-2-5.dir/School_Test/c9/_c9-2-5.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-5.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-5
+  TARGET_PDB = c9-2-5.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-6
+
+
+#############################################
+# Order-only phony target for c9-2-6
+
+build cmake_object_order_depends_target_c9-2-6: phony || .
+
+build CMakeFiles/c9-2-6.dir/School_Test/c9/c9-2-6.c.o: C_COMPILER__c9-2-6_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-6.c || cmake_object_order_depends_target_c9-2-6
+  DEP_FILE = CMakeFiles/c9-2-6.dir/School_Test/c9/c9-2-6.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-6.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-6.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-6
+
+
+#############################################
+# Link the executable c9-2-6
+
+build c9-2-6: C_EXECUTABLE_LINKER__c9-2-6_Debug CMakeFiles/c9-2-6.dir/School_Test/c9/c9-2-6.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-6
+  TARGET_PDB = c9-2-6.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-7
+
+
+#############################################
+# Order-only phony target for c9-2-7
+
+build cmake_object_order_depends_target_c9-2-7: phony || .
+
+build CMakeFiles/c9-2-7.dir/School_Test/c9/c9-2-7.c.o: C_COMPILER__c9-2-7_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-7.c || cmake_object_order_depends_target_c9-2-7
+  DEP_FILE = CMakeFiles/c9-2-7.dir/School_Test/c9/c9-2-7.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-7.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-7.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-7
+
+
+#############################################
+# Link the executable c9-2-7
+
+build c9-2-7: C_EXECUTABLE_LINKER__c9-2-7_Debug CMakeFiles/c9-2-7.dir/School_Test/c9/c9-2-7.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-7
+  TARGET_PDB = c9-2-7.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-2-8
+
+
+#############################################
+# Order-only phony target for c9-2-8
+
+build cmake_object_order_depends_target_c9-2-8: phony || .
+
+build CMakeFiles/c9-2-8.dir/School_Test/c9/c9-2-8.c.o: C_COMPILER__c9-2-8_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-2-8.c || cmake_object_order_depends_target_c9-2-8
+  DEP_FILE = CMakeFiles/c9-2-8.dir/School_Test/c9/c9-2-8.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-2-8.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-2-8.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-2-8
+
+
+#############################################
+# Link the executable c9-2-8
+
+build c9-2-8: C_EXECUTABLE_LINKER__c9-2-8_Debug CMakeFiles/c9-2-8.dir/School_Test/c9/c9-2-8.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-2-8.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-2-8
+  TARGET_PDB = c9-2-8.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-3-2
+
+
+#############################################
+# Order-only phony target for c9-3-2
+
+build cmake_object_order_depends_target_c9-3-2: phony || .
+
+build CMakeFiles/c9-3-2.dir/School_Test/c9/c9-3-2.c.o: C_COMPILER__c9-3-2_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-3-2.c || cmake_object_order_depends_target_c9-3-2
+  DEP_FILE = CMakeFiles/c9-3-2.dir/School_Test/c9/c9-3-2.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-3-2.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-3-2.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-3-2
+
+
+#############################################
+# Link the executable c9-3-2
+
+build c9-3-2: C_EXECUTABLE_LINKER__c9-3-2_Debug CMakeFiles/c9-3-2.dir/School_Test/c9/c9-3-2.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-3-2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-3-2
+  TARGET_PDB = c9-3-2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c9-3-1
+
+
+#############################################
+# Order-only phony target for c9-3-1
+
+build cmake_object_order_depends_target_c9-3-1: phony || .
+
+build CMakeFiles/c9-3-1.dir/School_Test/c9/c9-3-1.c.o: C_COMPILER__c9-3-1_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c9/c9-3-1.c || cmake_object_order_depends_target_c9-3-1
+  DEP_FILE = CMakeFiles/c9-3-1.dir/School_Test/c9/c9-3-1.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c9-3-1.dir
+  OBJECT_FILE_DIR = CMakeFiles/c9-3-1.dir/School_Test/c9
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c9-3-1
+
+
+#############################################
+# Link the executable c9-3-1
+
+build c9-3-1: C_EXECUTABLE_LINKER__c9-3-1_Debug CMakeFiles/c9-3-1.dir/School_Test/c9/c9-3-1.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c9-3-1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c9-3-1
+  TARGET_PDB = c9-3-1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c10-2-9
+
+
+#############################################
+# Order-only phony target for c10-2-9
+
+build cmake_object_order_depends_target_c10-2-9: phony || .
+
+build CMakeFiles/c10-2-9.dir/School_Test/c10/c10-2-9.c.o: C_COMPILER__c10-2-9_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-9.c || cmake_object_order_depends_target_c10-2-9
+  DEP_FILE = CMakeFiles/c10-2-9.dir/School_Test/c10/c10-2-9.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c10-2-9.dir
+  OBJECT_FILE_DIR = CMakeFiles/c10-2-9.dir/School_Test/c10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c10-2-9
+
+
+#############################################
+# Link the executable c10-2-9
+
+build c10-2-9: C_EXECUTABLE_LINKER__c10-2-9_Debug CMakeFiles/c10-2-9.dir/School_Test/c10/c10-2-9.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c10-2-9.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c10-2-9
+  TARGET_PDB = c10-2-9.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c10-2-10
+
+
+#############################################
+# Order-only phony target for c10-2-10
+
+build cmake_object_order_depends_target_c10-2-10: phony || .
+
+build CMakeFiles/c10-2-10.dir/School_Test/c10/c10-2-10.c.o: C_COMPILER__c10-2-10_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-10.c || cmake_object_order_depends_target_c10-2-10
+  DEP_FILE = CMakeFiles/c10-2-10.dir/School_Test/c10/c10-2-10.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c10-2-10.dir
+  OBJECT_FILE_DIR = CMakeFiles/c10-2-10.dir/School_Test/c10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c10-2-10
+
+
+#############################################
+# Link the executable c10-2-10
+
+build c10-2-10: C_EXECUTABLE_LINKER__c10-2-10_Debug CMakeFiles/c10-2-10.dir/School_Test/c10/c10-2-10.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c10-2-10.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c10-2-10
+  TARGET_PDB = c10-2-10.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c10-2-11
+
+
+#############################################
+# Order-only phony target for c10-2-11
+
+build cmake_object_order_depends_target_c10-2-11: phony || .
+
+build CMakeFiles/c10-2-11.dir/School_Test/c10/c10-2-11.c.o: C_COMPILER__c10-2-11_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-11.c || cmake_object_order_depends_target_c10-2-11
+  DEP_FILE = CMakeFiles/c10-2-11.dir/School_Test/c10/c10-2-11.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c10-2-11.dir
+  OBJECT_FILE_DIR = CMakeFiles/c10-2-11.dir/School_Test/c10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c10-2-11
+
+
+#############################################
+# Link the executable c10-2-11
+
+build c10-2-11: C_EXECUTABLE_LINKER__c10-2-11_Debug CMakeFiles/c10-2-11.dir/School_Test/c10/c10-2-11.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c10-2-11.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c10-2-11
+  TARGET_PDB = c10-2-11.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c10-2-12
+
+
+#############################################
+# Order-only phony target for c10-2-12
+
+build cmake_object_order_depends_target_c10-2-12: phony || .
+
+build CMakeFiles/c10-2-12.dir/School_Test/c10/c10-2-12.c.o: C_COMPILER__c10-2-12_unscanned_Debug /Users/jiamingxu/CLionProjects/cProject/School_Test/c10/c10-2-12.c || cmake_object_order_depends_target_c10-2-12
+  DEP_FILE = CMakeFiles/c10-2-12.dir/School_Test/c10/c10-2-12.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c10-2-12.dir
+  OBJECT_FILE_DIR = CMakeFiles/c10-2-12.dir/School_Test/c10
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c10-2-12
+
+
+#############################################
+# Link the executable c10-2-12
+
+build c10-2-12: C_EXECUTABLE_LINKER__c10-2-12_Debug CMakeFiles/c10-2-12.dir/School_Test/c10/c10-2-12.c.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk
+  OBJECT_DIR = CMakeFiles/c10-2-12.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c10-2-12
+  TARGET_PDB = c10-2-12.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3996,7 +4810,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/jiamingxu/CLionProjects/cProject/cmake-build-debug
 
-build all: phony cProject main hello c2-1-1 c2-1-4 c2-1-7 c2-1-13 c3-1-1 c3-1-2 c3-1-3 c3-1-4 c3-1-5 c3-1-6 c3-1-7 c3-1-8 c3-1-9 c3-2-1 c3-2-2 c3-2-3 c3-2-4 c3-2-5 c3-2-6 c3-3-1 c3-3-2 c4-1-1 c4-1-2 c4-1-3 c4-1-4 c4-2-1 c4-2-2 c4-2-3 c4-2-4 c4-2-5 c4-2-5-1 c4-2-6 c4-2-7 c4-2-8 c4-3-1 c4-3-2 test c5-1-1 c5-1-2 c5-2-1 c5-2-2 c5-2-3 c5-2-4 c5-2-5 c5-2-6 c5-2-7 c5-2-8 c5-2-9 c5-2-10 07_valueConvert 24_gotoTest c5-2-11 c5-3-1 c5-3-2 c6-1-1 c6-1-3 c6-1-2 c6-1-4 c6-2-2 c6-2-1 c6-2-5 c6-2-6 c6-2-7 c6-2-8 c6-2-9 c6-2-10 c6-2-11 c6-3-1 c6-3-2 c10-1-1 c10-1-2 c10-1-3 c10-1-4 c10-1-5 c10-1-6 c10-2-1 c10-2-2 c10-2-3 c10-2-4 c10-2-5 c10-2-6.c c10-2-7 c10-2-8 c7-1-1 c7-1-2 c7-2-1 c7-2-2 c7-2-3 c7-2-4 c7-2-5 c7-2-6 c7-2-7 c7-2-8 c7-2-9 c7-2-10 c7-2-11 c7-3 c8-1-1 c8-1-2 c8-2-1 c8-2-2 c8-2-3 c8-2-4
+build all: phony cProject main hello c2-1-1 c2-1-4 c2-1-7 c2-1-13 c3-1-1 c3-1-2 c3-1-3 c3-1-4 c3-1-5 c3-1-6 c3-1-7 c3-1-8 c3-1-9 c3-2-1 c3-2-2 c3-2-3 c3-2-4 c3-2-5 c3-2-6 c3-3-1 c3-3-2 c4-1-1 c4-1-2 c4-1-3 c4-1-4 c4-2-1 c4-2-2 c4-2-3 c4-2-4 c4-2-5 c4-2-5-1 c4-2-6 c4-2-7 c4-2-8 c4-3-1 c4-3-2 test c5-1-1 c5-1-2 c5-2-1 c5-2-2 c5-2-3 c5-2-4 c5-2-5 c5-2-6 c5-2-7 c5-2-8 c5-2-9 c5-2-10 07_valueConvert 24_gotoTest c5-2-11 c5-3-1 c5-3-2 c6-1-1 c6-1-3 c6-1-2 c6-1-4 c6-2-2 c6-2-1 c6-2-5 c6-2-6 c6-2-7 c6-2-8 c6-2-9 c6-2-10 c6-2-11 c6-3-1 c6-3-2 c10-1-1 c10-1-2 c10-1-3 c10-1-4 c10-1-5 c10-1-6 c10-2-1 c10-2-2 c10-2-3 c10-2-4 c10-2-5 c10-2-6.c c10-2-7 c10-2-8 c7-1-1 c7-1-2 c7-2-1 c7-2-2 c7-2-3 c7-2-4 c7-2-5 c7-2-6 c7-2-7 c7-2-8 c7-2-9 c7-2-10 c7-2-11 c7-3 c8-1-1 c8-1-2 c8-2-1 c8-2-2 c8-2-3 c8-2-4 c8-2-5 c8-2-6 c8-2-7 c8-3 c9-1-1 c9-1-2 c9-1-3.c c9-1-4 c9-2-1 c9-2-2 c9-2-3 c9-2-4 c9-2-5 c9-2-6 c9-2-7 c9-2-8 c9-3-2 c9-3-1 c10-2-9 c10-2-10 c10-2-11 c10-2-12
 
 # =============================================================================
 # Built-in targets
