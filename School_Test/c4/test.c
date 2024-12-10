@@ -1,22 +1,18 @@
 //
 // Created by ben on 2024/10/14.
 //
-#include "time.h"
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
+int fib(int n) {
+    if (n==1||n==2) {
+        return 1;
+    }else {
+        return fib(n-1) + fib(n-2);
+    }
+
+}
 int main() {
-    char str[3];
-    printf("Enter a string: ");
-    gets(str);
-    int len = strlen(str);
-    int a=sizeof(str);
-    printf("%d\n", len);
-    printf("%d\n", a);
+    printf("%d\n", fib(10));
 
     return 0;
 }
-
-
-

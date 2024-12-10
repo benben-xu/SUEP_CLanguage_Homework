@@ -65,7 +65,8 @@ add_executable(c2-1-1 School_Test/c2/c2-1-1.c
         Self-Learn/chapter02/24_gotoTest.c
         School_Test/c5/c5-2-11.c
         School_Test/c5/c5-3-1.c
-        School_Test/c5/c5-3-2.c)
+        School_Test/c5/c5-3-2.c
+        Self-Learn/chapter02/25_PointerFunctionTest.c)
 add_executable(c2-1-4 School_Test/c2/c2-1-4.c)
 add_executable(c2-1-7 School_Test/c2/c2-1-7.c)
 add_executable(c2-1-13 School_Test/c2/c2-1-13.c)
@@ -186,7 +187,13 @@ add_executable(07_valueConvert Self-Learn/chapter02/07_valueConvert.c
         School_Test/c10/c10-2-9.c
         School_Test/c10/c10-2-10.c
         "School_Test/c10/c10-2-11.c"
-        School_Test/c10/c10-2-12.c)
+        School_Test/c10/c10-2-12.c
+        School_Test/c10/c10-2-13.c
+        School_Test/c10/c10-3-1.c
+        School_Test/c10/c10-3-2.c
+        School_Test/c11/c11-1-1.c
+        School_Test/c11/c11-1-2.c
+        "School_Test/c11/ c11-1-3.c")
 add_executable(24_gotoTest Self-Learn/chapter02/24_gotoTest.c)
 add_executable(c5-2-11 School_Test/c5/c5-2-11.c)
 add_executable(c5-3-1 School_Test/c5/c5-3-1.c)
@@ -262,3 +269,10 @@ add_executable(c10-2-9 School_Test/c10/c10-2-9.c)
 add_executable(c10-2-10 School_Test/c10/c10-2-10.c)
 add_executable( c10-2-11 "School_Test/c10/c10-2-11.c")
 add_executable(c10-2-12 School_Test/c10/c10-2-12.c)
+add_executable(c10-2-13 School_Test/c10/c10-2-13.c)
+add_executable(c10-3-1 School_Test/c10/c10-3-1.c)
+add_executable(c10-3-2 School_Test/c10/c10-3-2.c)
+add_executable(25_PointerFunctionTest Self-Learn/chapter02/25_PointerFunctionTest.c)
+add_executable(c11-1-1 School_Test/c11/c11-1-1.c)
+add_executable(c11-1-2 School_Test/c11/c11-1-2.c)
+add_executable( c11-1-3 "School_Test/c11/ c11-1-3.c")

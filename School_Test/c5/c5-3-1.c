@@ -8,13 +8,13 @@ int main() {
     int num, math, english, c_language;
     double avg;
 
-    fp_in = fopen("/Users/ben/CLionProjects/cProject/School_Test/c5/score.txt", "r");
+    fp_in = fopen("/Users/jiamingxu/CLionProjects/cProject/School_Test/c5/score.txt", "r");
     if (fp_in == NULL) {
         printf("无法打开文件 score.txt\n");
         return 1;
     }
 
-    fp_out = fopen("/Users/ben/CLionProjects/cProject/School_Test/c5/score_avg.txt", "w");
+    fp_out = fopen("/Users/jiamingxu/CLionProjects/cProject/School_Test/c5/score_avg.txt", "w");
     if (fp_out == NULL) {
         printf("无法打开文件 score_avg.txt\n");
         fclose(fp_in);
